@@ -1,6 +1,6 @@
 # WP REST API ALLOW ORIGIN
 
-![ALLOW ORIGIN](https://github.com/chatbox-inc/wp-rest-api-allow-origin/raw/master/orijin.gif "ALLOW ORIGIN")
+![ALLOW ORIGIN](https://github.com/chatbox-inc/wp-rest-api-allow-origin/raw/master/origin.gif "ALLOW ORIGIN")
 
 WP REST API の オリジンいじったりするやつ。
 
